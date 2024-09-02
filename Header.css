@@ -1,0 +1,27 @@
+.Container{
+    
+    background-color: blue;
+    
+    
+}
+nav ul li{
+    display: inline-block;
+    text-decoration:none;
+    
+}
+li{
+    padding:50px;
+    justify-content: space-between;
+}
+.Content{
+   text-align: center;
+   margin-top: 10%;
+   margin-bottom:15%;
+}
+.Foot{
+    background-color: blue;
+   
+}
+.Foot ul li{
+    display:inline-block ;
+}
